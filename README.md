@@ -14,9 +14,9 @@ In your second project you will create a full stack Express and Postgres app whi
 
 In designing and building your project, you will start by forking and cloneing this repository, and then editing this README to include the following information: 
 1. Name of your app
-     -Travel something
+     *Travel something
 2. Tech stack you plan to use
-     -Postgres, Express, NodeJS, possibly others?
+     *Postgres, Express, NodeJS, possibly others?
 3. Simple wireframes
      * Can be handdrawn, or with tool of your choice
      * Example online tool: [Miro.com](https://miro.com/)
@@ -26,22 +26,22 @@ In designing and building your project, you will start by forking and cloneing t
 
 
 5. API you plan to use
-     -Not totally sure...might need help with this. Was thinking some sort of blog/social media API?
+     *Not totally sure...might need help with this. Was thinking some sort of blog/social media API?
 
 6. ERD
      
 7. Example of how to call/invoke your API, and a description of what data comes back. 
 
 8. MVP goals (x3-5)
-     -once a user has signed up/logged in, they can post pictures and reviews
-     -they can access their list of places that they want to travel/have travelled
-     -they can rate their visit to a specific place
+     *once a user has signed up/logged in, they can post pictures and reviews
+     *they can access their list of places that they want to travel/have travelled
+     *they can rate their visit to a specific place
 9. Stretch goals (x2-5)
-     -be able to search for places and turn up results
-     -add tags to places/pictures to share reviews publicly?
+     *be able to search for places and turn up results
+     *add tags to places/pictures to share reviews publicly?
 
 10. Any potential roadblocks?
-     -I could list a lot
+     *I could list a lot
 
 ## How to get started
 1. **Fork and clone this repository.**

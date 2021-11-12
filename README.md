@@ -29,7 +29,8 @@ In designing and building your project, you will start by forking and cloneing t
      * Not totally sure...might need help with this. Was thinking some sort of blog/social media API?
 
 6. ERD
-     
+     ![Screen Shot 2021-11-12 at 4 23 18 PM](https://user-images.githubusercontent.com/92114356/141536213-5d9f4ab8-3dc5-4420-9c6f-91201227e8e7.png)
+
 7. Example of how to call/invoke your API, and a description of what data comes back. 
 
 8. MVP goals (x3-5)

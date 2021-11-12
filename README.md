@@ -20,6 +20,9 @@ In designing and building your project, you will start by forking and cloneing t
 3. Simple wireframes
      * Can be handdrawn, or with tool of your choice
      * Example online tool: [Miro.com](https://miro.com/)
+![image](https://user-images.githubusercontent.com/92114356/141528793-6465da82-5392-49fd-89f9-a790b846b275.png)
+
+![image](https://user-images.githubusercontent.com/92114356/141528839-56e8da9c-0d35-4b3f-8b78-1ef9d338af03.png)
 
 
 5. API you plan to use

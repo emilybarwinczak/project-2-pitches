@@ -21,8 +21,8 @@ In designing and building your project, you will start by forking and cloneing t
      * Can be handdrawn, or with tool of your choice
      * Example online tool: [Miro.com](https://miro.com/)
 
-![Wireframe](/wireframe.png)
-![More](/projecttwo.png)
+![Wireframe](wireframe.png)
+![More](projecttwo.png)
 
 5. API you plan to use
      * Not totally sure...might need help with this. Was thinking some sort of blog/social media API?
